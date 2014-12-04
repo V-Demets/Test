@@ -1,2 +1,6 @@
 Valentin a créé cette ligne
+<<<<<<< HEAD
 Valentin modifie cette ligne
+=======
+Chez moi GitX bug aussi, lorsque l’on doit cloner … je teste deux autres interfaces pour voir ce que cela donne
+>>>>>>> CyrilleModif/master
